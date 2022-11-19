@@ -17,7 +17,7 @@ pip install links2news
 Fill me in please! Don’t forget code examples:
 
 ``` python
-1+1
+get_soup()
 ```
 
-    2
+    soup!

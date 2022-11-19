@@ -5,5 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://michaeldini.github.io',
                 'git_url': 'https://github.com/michaeldini/links2news',
                 'lib_path': 'links2news'},
-  'syms': { 'links2news.core': {'links2news.core.foo': ('core.html#foo', 'links2news/core.py')},
-            'links2news.links2news': {'links2news.links2news.get_soup': ('nature.html#get_soup', 'links2news/links2news.py')}}}
+  'syms': {'links2news.links2news': {'links2news.links2news.get_soup': ('nature.html#get_soup', 'links2news/links2news.py')}}}
