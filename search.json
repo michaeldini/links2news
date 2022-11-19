@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "links2news",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "links2news",
+    "section": "Install",
+    "text": "Install\npip install links2news"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "links2news",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\nget_soup()\n\nsoup!"
+  },
+  {
+    "objectID": "nature.html",
+    "href": "nature.html",
+    "title": "Nature",
+    "section": "",
+    "text": "source\n\nget_soup\n\n get_soup ()"
+  }
+]
