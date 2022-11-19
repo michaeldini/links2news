@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "links2news"
+  site-url: "https://michaeldini.github.io/links2news"
+  description: "gathers hyperlinks to news articles from various sites"
+  repo-branch: main
+  repo-url: "https://github.com/michaeldini/links2news"
